@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "188be5ca14806977",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef6b487d4fbba7aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CODE_OF_CONDUCT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0179bc49e30f100b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d470d8d2f8b4dd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dc854f4d3d59e34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ced03eec1b8606f0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d2bcbac5604c47de",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4426bf0ba889bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b178417800e5a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CODE_OF_CONDUCT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef6b487d4fbba7aa",
+  "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "CONTRIBUTING.md",
+    "logo.png",
+    "README.md",
+    "snippet-template.md"
+  ]
+}
